@@ -33,3 +33,14 @@ export const Archived = {
     },
   },
 };
+
+export const LongTitle = {
+  args: {
+    task: {
+      id: "1",
+      title:
+        "Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task Test Task",
+      state: "TASK_INBOX",
+    },
+  },
+};
